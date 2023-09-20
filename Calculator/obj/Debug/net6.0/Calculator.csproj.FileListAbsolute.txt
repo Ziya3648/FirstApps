@@ -1,0 +1,14 @@
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\bin\Debug\net6.0\Calculator.exe
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\bin\Debug\net6.0\Calculator.deps.json
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\bin\Debug\net6.0\Calculator.dll
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\bin\Debug\net6.0\Calculator.pdb
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\obj\Debug\net6.0\Calculator.dll
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\obj\Debug\net6.0\refint\Calculator.dll
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\obj\Debug\net6.0\Calculator.pdb
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\Ziya\Projects\MyFirstApps\ConsoleApp1\obj\Debug\net6.0\ref\Calculator.dll

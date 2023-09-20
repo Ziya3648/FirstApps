@@ -1,0 +1,14 @@
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\bin\Debug\net6.0\Sade_ededler.exe
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\bin\Debug\net6.0\Sade_ededler.deps.json
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\bin\Debug\net6.0\Sade_ededler.runtimeconfig.json
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\bin\Debug\net6.0\Sade_ededler.dll
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\bin\Debug\net6.0\Sade_ededler.pdb
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\obj\Debug\net6.0\Sade_ededler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\obj\Debug\net6.0\Sade_ededler.AssemblyInfoInputs.cache
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\obj\Debug\net6.0\Sade_ededler.AssemblyInfo.cs
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\obj\Debug\net6.0\Sade_ededler.csproj.CoreCompileInputs.cache
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\obj\Debug\net6.0\Sade_ededler.dll
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\obj\Debug\net6.0\refint\Sade_ededler.dll
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\obj\Debug\net6.0\Sade_ededler.pdb
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\obj\Debug\net6.0\Sade_ededler.genruntimeconfig.cache
+D:\Ziya\Projects\MyFirstApps\Sade_ededler\obj\Debug\net6.0\ref\Sade_ededler.dll

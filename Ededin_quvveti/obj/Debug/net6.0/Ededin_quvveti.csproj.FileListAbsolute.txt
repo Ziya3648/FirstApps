@@ -1,0 +1,14 @@
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\bin\Debug\net6.0\Ededin_quvveti.exe
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\bin\Debug\net6.0\Ededin_quvveti.deps.json
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\bin\Debug\net6.0\Ededin_quvveti.runtimeconfig.json
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\bin\Debug\net6.0\Ededin_quvveti.dll
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\bin\Debug\net6.0\Ededin_quvveti.pdb
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\obj\Debug\net6.0\Ededin_quvveti.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\obj\Debug\net6.0\Ededin_quvveti.AssemblyInfoInputs.cache
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\obj\Debug\net6.0\Ededin_quvveti.AssemblyInfo.cs
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\obj\Debug\net6.0\Ededin_quvveti.csproj.CoreCompileInputs.cache
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\obj\Debug\net6.0\Ededin_quvveti.dll
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\obj\Debug\net6.0\refint\Ededin_quvveti.dll
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\obj\Debug\net6.0\Ededin_quvveti.pdb
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\obj\Debug\net6.0\Ededin_quvveti.genruntimeconfig.cache
+D:\Ziya\Projects\MyFirstApps\Ededin_quvveti\obj\Debug\net6.0\ref\Ededin_quvveti.dll

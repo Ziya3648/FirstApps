@@ -1,0 +1,14 @@
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\bin\Debug\net6.0\Sade_ededler_sayi.exe
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\bin\Debug\net6.0\Sade_ededler_sayi.deps.json
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\bin\Debug\net6.0\Sade_ededler_sayi.runtimeconfig.json
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\bin\Debug\net6.0\Sade_ededler_sayi.dll
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\bin\Debug\net6.0\Sade_ededler_sayi.pdb
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\obj\Debug\net6.0\Sade_ededler_sayi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\obj\Debug\net6.0\Sade_ededler_sayi.AssemblyInfoInputs.cache
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\obj\Debug\net6.0\Sade_ededler_sayi.AssemblyInfo.cs
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\obj\Debug\net6.0\Sade_ededler_sayi.csproj.CoreCompileInputs.cache
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\obj\Debug\net6.0\Sade_ededler_sayi.dll
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\obj\Debug\net6.0\refint\Sade_ededler_sayi.dll
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\obj\Debug\net6.0\Sade_ededler_sayi.pdb
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\obj\Debug\net6.0\Sade_ededler_sayi.genruntimeconfig.cache
+D:\Ziya\Projects\MyFirstApps\Sade_ededler_sayi\obj\Debug\net6.0\ref\Sade_ededler_sayi.dll

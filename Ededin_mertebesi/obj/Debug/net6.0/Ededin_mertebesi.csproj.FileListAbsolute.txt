@@ -1,0 +1,14 @@
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\bin\Debug\net6.0\Ededin_mertebesi.exe
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\bin\Debug\net6.0\Ededin_mertebesi.deps.json
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\bin\Debug\net6.0\Ededin_mertebesi.runtimeconfig.json
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\bin\Debug\net6.0\Ededin_mertebesi.dll
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\bin\Debug\net6.0\Ededin_mertebesi.pdb
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\obj\Debug\net6.0\Ededin_mertebesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\obj\Debug\net6.0\Ededin_mertebesi.AssemblyInfoInputs.cache
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\obj\Debug\net6.0\Ededin_mertebesi.AssemblyInfo.cs
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\obj\Debug\net6.0\Ededin_mertebesi.csproj.CoreCompileInputs.cache
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\obj\Debug\net6.0\Ededin_mertebesi.dll
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\obj\Debug\net6.0\refint\Ededin_mertebesi.dll
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\obj\Debug\net6.0\Ededin_mertebesi.pdb
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\obj\Debug\net6.0\Ededin_mertebesi.genruntimeconfig.cache
+D:\Ziya\Projects\MyFirstApps\Ededin_mertebesi\obj\Debug\net6.0\ref\Ededin_mertebesi.dll
